@@ -46,3 +46,6 @@ automated tests using Python 3.10 and Python 3.12.
 ## Result
 The Python application's build and testing process is automated
 using GitHub Actions.
+
+## Student
+Experiment 7 completed using Git, GitHub, Python, pytest, and GitHub Actions.
